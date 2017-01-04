@@ -1,4 +1,30 @@
+h1 {
+	font-family: Arial;
+	font-style: italic;
+	color: #E6E6FA;
+	font-size: 50px;
+}
+
+h3 {
+	font-family: Arial;
+/*	font-style: italic;*/
+	color: #778899;
+	font-size: 25px;
+}
+
 body {
   text-align: center;
-  margin: 50px 0;
+  margin: 70px 0;
+  background: url(images/background_img.jpeg)no-repeat center top;
+  font-family: Arial;
+  color: #778899;
+  font-size: 17px;
+}
+
+#list{
+	list-style: url(images/paw_print.png);
+	color: white;
+	padding:10px;
+	text-align: left;
+	margin-left: 325px;
 }
